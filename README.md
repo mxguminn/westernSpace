@@ -12,6 +12,3 @@ trying stuff out !
     the model <b>should't</b> take keV into it
   </li>
 </ol>
-<b>Try this link out</b> 
-  https://www.geeksforgeeks.org/how-to-zoom-in-and-zoom-out-image-using-javascript/
-<br>It has zoom in zoom out, could be used for paintings page
