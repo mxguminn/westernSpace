@@ -14,4 +14,4 @@ trying stuff out !
 </ol>
 <b>Try this link out</b> 
   <a>https://www.geeksforgeeks.org/how-to-zoom-in-and-zoom-out-image-using-javascript/</a>
-/nIt has zoom in zoom out, could be used for paintings page
+<br>nIt has zoom in zoom out, could be used for paintings page
