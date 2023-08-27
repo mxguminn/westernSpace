@@ -14,7 +14,7 @@ The inputs for the full width at half max of the Magnesium II and Calcium IV emi
 
 sample imputs:
 ###### all values in kilo-electronvolts or keV
-| Parameter    | Arguement |
+| Attribute    | Arguement |
 | -------- | ------- |
 | Mg II Amplitude | 14.725 |
 | Mg II FWHM | 5.3225560120812084474<b>e</b>-05 |
